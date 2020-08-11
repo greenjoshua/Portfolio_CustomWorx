@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Website of my portfolios",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenjoshua/Portfolio_CustomWorx.git"
+  },
+  "author": "Joshua Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenjoshua/Portfolio_CustomWorx/issues"
+  },
+  "homepage": "https://github.com/greenjoshua/Portfolio_CustomWorx#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

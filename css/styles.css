@@ -1,0 +1,12 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #8900F2;
+}
+
+body header {
+    background-color: #2D00F7;
+}
+  
+h1, h2, h3 {
+    font-family: "Lobster", cursive; 
+}

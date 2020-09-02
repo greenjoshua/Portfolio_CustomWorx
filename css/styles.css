@@ -1,12 +1,22 @@
 body {
-    font-family: "Open Sans", sans-serif;
-    background-color: #8900F2;
+    font-family: "Times New Roman", Times, serif;
+    /*background-color: #8900F2;
+    background-image: url(../img/coding-background.jpg); */
+    background-size: 100%;
 }
 
-body header {
-    background-color: #2D00F7;
+
+
+.jumbotron {
+    background-image: linear-gradient(to right, lightblue, rgb(0, 153, 255), darkblue);
+    margin: 0;
 }
-  
-h1, h2, h3 {
-    font-family: "Lobster", cursive; 
+
+.navbar {
+    background-color: blue;
+}
+
+.site-footer {
+    background-image: linear-gradient(#c8efff, white);
+    padding: 20px 0; 
 }
